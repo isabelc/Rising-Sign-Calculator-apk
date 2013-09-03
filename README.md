@@ -8,3 +8,5 @@ Privacy is guaranteed because the information you submit into the Rising Sign Ca
 This app requires a data (internet) connection.
 
 This is a web app which uses Android's "web view". These files must be compiled into an `.apk` by software such as Eclipse IDE.
+
+Get the app on [Google Play](https://play.google.com/store/apps/details?id=org.astrolibrary.risingsigncalculator&hl=en)
